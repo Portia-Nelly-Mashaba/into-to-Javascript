@@ -117,7 +117,7 @@ const createHomeContent = () => {
                 <div class="education-content">
                     <div class="content">
                         <div class="year"><i class='bx bxs-calendar' ></i>2022 - 2023</div>
-                        <h3>Power Learn Project - Software Development Certficate</h3>
+                        <h3>Power Learn Project - Software Development Certificate</h3>
                         <p>Software Development Certificate, majors in Python and Django framework, HTML, CSS & Javascript, Dart & Flutter, Business 
                             Fundamentals and Computer Essentials</p>
                     </div>
@@ -126,8 +126,8 @@ const createHomeContent = () => {
                 <div class="education-content">
                     <div class="content">
                         <div class="year"><i class='bx bxs-calendar' ></i>2011 - 2013</div>
-                        <h3>Ekurhuleni West College - Higher Certficate in Software Development</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea deserunt molestias voluptate?
+                        <h3>Ekurhuleni West College - Software Development Certificate</h3>
+                        <p>Information Technology Certifate, major in programming and computer networking
                              </p>
                     </div>
                 </div>
@@ -136,9 +136,7 @@ const createHomeContent = () => {
                     <div class="content">
                         <div class="year"><i class='bx bxs-calendar' ></i>2004 - 2008</div>
                         <h3>Bokamoso Secondary School - Matric</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea deserunt molestias voluptate?
-                             Sit, excepturi? Accusamus odio provident illum error expedita dolorum aperiam commodi 
-                             repudiandae quasi, explicabo modi rerum ea quo.</p>
+                        <p>Matric (Grade12) </p>
                     </div>
                 </div>
 
@@ -154,9 +152,8 @@ const createHomeContent = () => {
                     <div class="content">
                         <div class="year"><i class='bx bxs-calendar' ></i>2015 - 2020</div>
                         <h3>Software Developer - RAM Transport</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea deserunt molestias voluptate?
-                             Sit, excepturi? Accusamus odio provident illum error expedita dolorum aperiam commodi 
-                             repudiandae quasi, explicabo modi rerum ea quo.</p>
+                        <p>Helpdesk Support Agent for Software Development, SQL Developer,  
+                        Software Tester, Mobile Desk Support Agent And Data Analyst for Risk Department.</p>
                     </div>
                 </div>
 
@@ -164,9 +161,8 @@ const createHomeContent = () => {
                     <div class="content">
                         <div class="year"><i class='bx bxs-calendar' ></i>2014 - 2015</div>
                         <h3>Software Developer Intern - Khum Mk Investments</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea deserunt molestias voluptate?
-                             Sit, excepturi? Accusamus odio provident illum error expedita dolorum aperiam commodi 
-                             repudiandae quasi, explicabo modi rerum ea quo.</p>
+                        <p>Data Analyst, IT Specialist And Office Administrator
+                            </p>
                     </div>
                 </div>
 
@@ -174,9 +170,7 @@ const createHomeContent = () => {
                     <div class="content">
                         <div class="year"><i class='bx bxs-calendar' ></i>2012 - 2013</div>
                         <h3>Software Developer - Lisel Reseach</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea deserunt molestias voluptate?
-                             Sit, excepturi? Accusamus odio provident illum error expedita dolorum aperiam commodi 
-                             repudiandae quasi, explicabo modi rerum ea quo.</p>
+                        <p>General Worker in a Manufacturing Plant of Toiletries and Cosmetics</p>
                     </div>
                 </div>
 
